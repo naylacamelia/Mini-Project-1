@@ -4,12 +4,12 @@ Nayla camelia indraswari
 / Sistem informasi A
 
 # Flowchart
-![flowchart minpro drawio](https://github.com/user-attachments/assets/acec8ab6-4b09-4117-8003-8eae223fd4b5)
+![flowchart MiniProject1 drawio](https://github.com/user-attachments/assets/114bd90b-7a48-41ba-ba34-fae81ccfdc34)
 
 # Contoh Output Awal hingga Akhir
 ![Screenshot 2024-09-30 144258](https://github.com/user-attachments/assets/bad00c92-c2ae-4e12-b5d0-63c10ee70d44)
 
-# Penjelasan Output
+# Penjelasan Program
 1. User melakukan login dengan memasukkan nama dan NIM (interger) dengan tepat
    
   ![Screenshot 2024-09-30 214710](https://github.com/user-attachments/assets/a62fbbca-bb65-4473-9e50-338c43fd77fe)
