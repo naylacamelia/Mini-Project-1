@@ -31,7 +31,7 @@ Nayla camelia indraswari
 
   ![{5A2DD8B0-96EA-412A-9EC1-761988091C23}](https://github.com/user-attachments/assets/8ff069db-717d-44c1-88b8-bd489cf53c13)
 
-  Ketika user memasukkan jam kerja kurang dari 160 jam, maka akan langsung menampilkan gaji yang didapatkan
+  Ketika user memasukkan jam kerja kurang dari atau sama dengan 160 jam, maka akan langsung menampilkan gaji yang didapatkan
 
   ![{80E9C68A-C8C2-40F5-A52D-76C0D9023580}](https://github.com/user-attachments/assets/03a606cc-d3e1-43dd-9fe3-787d0f62b234)
 
